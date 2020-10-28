@@ -1,0 +1,40 @@
+.body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: blue;
+}
+
+.body .mainheading {
+  font-size: 50px;
+  border: 3px solid red;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: #f4f4f4;
+}
+
+.body .textbox {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: blue;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.body .textbox .one {
+  border: 3px solid red;
+  text-shadow: #333333;
+}
+
+.body .textbox .two {
+  border: 3px solid red;
+}
+
+.body .textbox .three {
+  border: 3px solid red;
+}
+
+.body .bottomfinalmessage {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
